@@ -1,10 +1,35 @@
-#Object Oriented Programming
 
-| Objectives |
-| :--- |
-| Build practical and useful objects using Javascript constructors |
-| Demonstrate a working knowledge of  object properties and methods  |
-| Convert previous projects to utilize Object Oriented Programming techniques |
+<!--
+Market: SF
+-->
+
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> Object-Oriented Programming
+
+
+## Why is this important?
+*This workshop is relevant to developers because:*
+
+- OOP is the foundation of all modern development
+- Concepts learned from OOP can enhance understanding of efficiency and code-reuse
+- Everything is an object. Knowing OOP, you'll know everything!
+
+## What are the objectives?
+<!-- specific/measurable goal for students to achieve -->
+*After this workshop, developers will be able to:*
+
+- Build practical and useful objects using Javascript constructors
+- Demonstrate a working knowledge of object properties and methods
+- Convert previous projects to utilize Object Oriented Programming techniques
+
+## Where should we be now?
+<!-- call out the skills that are prerequisites -->
+*Before this workshop, developers should already be able to:*
+- Identify the `attributes` and `behaviors` of an object in javascript
+- Have a familiarity with "drilling down" into an object to access information
+- Assign object attributes to a variable for external use and manipulation
+- Be in the presence of plants with pollen
+
+---
 
 ## What is an Object?
 
@@ -74,7 +99,7 @@ Declaring variables and defining them as portions of a larger object helps us cr
 ###Quick Challenge
 <!--- Make a copy of `data.js` and rename it to `enhancedData.js`-->
 - Make a copy of the cohort data
-- Add some more properties that logically fit into an object describing our class (address, floor number, and a list of instructors).
+- Add one more property that logically fits into an object describing our class (address, floor number, or a list of instructors).
 - Try to access your new data properties from the console to make sure they work.
 
 If everything worked out, you should have a fully functioning data object, only now with even MORE properties with us to play with!  
