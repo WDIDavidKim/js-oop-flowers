@@ -43,7 +43,7 @@ var data = {
 	city: 'San Francisco',
 	course: 'Web Development Immersive',
 	course_id: 'WDI30',
-	course_alias: 'Dirty Thirty'
+	course_alias: 'Dirty Thirty',
 	classroom: '5',
 	students: [{
 		id: 0,
