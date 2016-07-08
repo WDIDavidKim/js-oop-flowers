@@ -49,6 +49,7 @@ Notice the parameter used with the `compare` method.  The `other-` prefix is use
 the parameter as a similar but foreign object.  This convention helps with knowing
 which object is which.    
 
+![](http://i.giphy.com/26BoDycSSoDAlwDII.gif)
 <br>
 <h2> Custom Objects </h2>
 We can use parameters with our object constructor!  
@@ -127,6 +128,8 @@ Create a method called `crossPollinate`
 - The smellPretty gene is recessive, unfortunately. This means that a flower will smell pretty IF and only IF both flowers smell pretty.  
 
 *Thought experiment: Could we create an intermediary object, maybe called Bee, that could facilitate cross-pollination and return a new flower? Flowers don't just bash their heads together and make new flowers in the real world!  They need bees!  What are some methods we could assign to a Bee object?*
+
+![Enough flowers yet?](http://i.giphy.com/hR2YS6DtlfCa4.gif)
 
 <h3>Uber Challenge</h3>
 -  Create a method within the Flower object that will render a description of your flower along with all of its vital statistics we have collected as well as an image to a simple website.  
